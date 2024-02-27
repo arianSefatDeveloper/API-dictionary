@@ -5,10 +5,12 @@ this is cool dictionary project whit api
  ### Create with :
   - HTML
   - CSS
-  - JavaScript `api handeling`
+  - JavaScript `API Handeling`
 
 
   
+  - [API link](https://api.dictionaryapi.dev/api/v2/entries/en/) 
 
-  
+
+
 ## Check This Project [Online](https://ariansefatdeveloper.github.io/Animation-Menu/)
